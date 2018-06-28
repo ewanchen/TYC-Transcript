@@ -1,0 +1,16 @@
+1. ODBC settings
+	Production:
+	DSN NAME: TYCTRANSCRIPTSDSN
+	Server:db1
+	User name: tyctranuser
+	password:See administrator
+	database: tycTranscripts
+	
+	Training:
+	DNS NAME:TYCTRANSCRIPTSTrainDSN
+	Server:prod
+	user: See administrator
+	password:See administrator
+	database: tycTranscripts_train
+2. Computer that is accessing tool must have PCs2 acessability
+3. User must have PCs2 credentials as well.

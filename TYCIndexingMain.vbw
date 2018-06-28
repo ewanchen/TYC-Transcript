@@ -1,0 +1,13 @@
+Main = 156, 156, 1052, 582, Z, 26, 26, 922, 452, C
+ToolFunctionModule = 104, 104, 1092, 469, 
+GV = 0, 0, 0, 0, C
+RulesModule_EC = 156, 156, 1144, 521, 
+IndexerDialog = 0, 0, 0, 0, C, 78, 78, 974, 504, C
+EJRulesModule = 130, 130, 1118, 495, 
+CheckModule = 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+Module2 = 0, 0, 0, 0, C
+PCSToolFunctionModule = 52, 52, 948, 478, 
+FormLogin = 130, 130, 1026, 556, , 52, 52, 948, 478, C
+frmHelp = 0, 0, 0, 0, C, 78, 78, 974, 504, C
+FormDialog = 0, 0, 0, 0, C, 104, 104, 1000, 530, C
